@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: RoboHashpy
+Version: 0.1
+Summary: An api wrapper for RoboHash
+Home-page: https://github.com/namanko/RoboHashpy
+Author: ShadowRanger5
+Author-email: namankrocks@gmail.com
+License: MIT
+Keywords: Hash,RoboHash
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
+
+# RoboHashpy
+## An api wrapper for RoboHash, a cool service by @e1ven, which generates images from random text!
+
+
